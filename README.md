@@ -23,6 +23,6 @@ This project demonstrates the setup of a local Kubernetes environment and the ex
 * Verified that the pod is hidden from the `default` namespace but running successfully in the custom namespace.
 
 ## 📸 Proof of Work
-Refer to the `/screenshots` folder for:
+Refer to the `/k8s-minikube-task`(screenshot) folder for:
 1. Minikube cluster status and namespace creation.
 2. Verified pod isolation within the custom namespace.
